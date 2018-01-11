@@ -12,6 +12,8 @@ pip install -U channels
 
 to get started run
 
+python -m venv env
+
 ./src python migrate
 
 ./src python runserver
